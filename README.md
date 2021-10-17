@@ -1,1 +1,1 @@
-# Thit is manifests for k8s
+# This is manifests for k8s
